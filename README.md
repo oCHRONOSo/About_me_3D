@@ -1,4 +1,4 @@
-# Github_Practica
+# About me in 3D
 
 A 3D portfolio built with **React**, **Vite**, and **React Three Fiber**. The scene loads a baked GLB model with interactive targets and optional background music.
 
